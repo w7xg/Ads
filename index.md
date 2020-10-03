@@ -3,5 +3,5 @@
 ``` bash
 <video src="https://ads.w7xg.ml/ads/xxx.mp4" width="240" autoplay="" loop="loop"></video>
 ```
-[如何实现?]("https://github.com/w7xg/Ads/blob/main/README.md")
+[如何实现?](https://github.com/w7xg/Ads/blob/main/README.md)
 <hr>
