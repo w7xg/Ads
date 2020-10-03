@@ -19,10 +19,11 @@ Add Yourname in master (/ads/yourname)
 <video src="ads.w7xg.ml/ads/yourname/xxx.mp4"></video>
 ```
 ## Docs
-[中文文档](https://github.com/w7xg/Ads)
-[API]()
+[中文文档](https://github.com/w7xg/Ads)<br/>
+[API]()<br/>
 ## Why Choose W7xg Ads?
-For Google Ads ------GFW!!!
-For China Ads ------Yellow!!!
-We Have Free Ads!!!!
-DNS&CDN By Cloudflare
+For Google Ads ------GFW!!!<br/>
+For China Ads ------Yellow!!!<br/>
+We Have Free Ads!!!!<br/>
+DNS&CDN By Cloudflare<br/>
+Copyright (c) 2020 ADS.W7XG.ML
