@@ -19,8 +19,7 @@
 <video src =“ ads.w7xg.ml/ads/您的名字/xxx.mp4”> </ video>
 ```
 ## 文件
-[中文文档]（https://github.com/w7xg/Ads）<br/>
-[API]（）<br/>
+[中文文档](https://github.com/w7xg/Ads)<br/>
 ## 为什么选择W7xg广告？
 对于Google Ads ------ GFW !!! <br/>
 对于中国广告------黄色！!!! <br/>
