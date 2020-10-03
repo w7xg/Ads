@@ -19,8 +19,7 @@ Add Yourname in master (/ads/yourname)
 <video src="ads.w7xg.ml/ads/yourname/xxx.mp4"></video>
 ```
 ## Docs
-[中文文档](https://github.com/w7xg/Ads)<br/>
-[API]()<br/>
+[中文文档](https://github.com/w7xg/Ads/blob/main/README_CN.MD)<br/>
 ## Why Choose W7xg Ads?
 For Google Ads ------GFW!!!<br/>
 For China Ads ------Yellow!!!<br/>
